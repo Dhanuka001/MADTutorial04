@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">tutorial 4</string>
+    <string name="label01" />
+    <string name="lable01">Enter Email</string>
+    <string name="label02">Enter Email</string>
+    <string name="label03">Reenter Email</string>
+    <string name="hint1">Enter Password</string>
+    <string name="hint2">Re Enter Password</string>
+    <string name="button01">Submit</string>
+    <string name="button02">Cancel</string>
 </resources>
